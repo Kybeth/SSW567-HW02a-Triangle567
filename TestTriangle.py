@@ -6,7 +6,7 @@ SSW567 HW02a
 Original info:
 
 Updated Jan 21, 2018
-The primary goal of this file is to demonstrate a simple unittest implementation
+Primary goal of this file: to demonstrate a simple unittest implementation
 
 @author: jrr
 @author: rk
@@ -17,7 +17,8 @@ import unittest
 from Triangle import classifyTriangle
 
 # This code implements the unit test functionality
-# https://docs.python.org/3/library/unittest.html has a nice description of the framework
+# The following page has a nice description of the framework
+# https://docs.python.org/3/library/unittest.html
 
 
 class TestTriangles(unittest.TestCase):

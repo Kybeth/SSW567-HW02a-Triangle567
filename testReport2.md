@@ -1,5 +1,5 @@
 # ## Test report for improved classifyTriangle()
-| Test ID | Input | Expected Results | Actual Result | Pass or Fail
+| Test ID | Input | Expected Results | Actual Result | Pass or Fail |
 | --- | --- | --- | --- | --- |
 | 1 | 3,4,5 | Right | Right | Pass |
 | 2 | 5,3,4 | Right | Right | Pass |
